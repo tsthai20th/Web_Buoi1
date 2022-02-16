@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>THÔNG TIN CÁ NHÂN</title>
+		<meta charset="utf-8">
+		<link rel="icon" type="image/x-icon" href="caphe.ico">
+		<style>
+		h1{
+		font-family: Arial;
+		color: red;
+		}
+		p{
+		font-family: Arial;
+		color: black;
+		}
+		</style>
+	</head>
+	<body background="87215.jpg">
+		<h1>THÔNG TIN CÁ NHÂN</h1>
+		<hr color="blue" size="5" width="100%" align="left">
+		<img src="gorou.png" alt ="Ảnh Đại Diện" align="left" width="200" border = "1">
+		<p>Họ Và Tên: <b>Trần Siêu Thái</b></p>
+		<p>Biệt Danh: Sai'Ka</p>
+		<p>Ngày Tháng Năm Sinh: 02/12/2004</p>
+		<p>Địa Chỉ:TPHCM</p>
+		<p>Nơi Làm Việc: Trường Đại Học An Giang</p>
+		<p>Điện Thoại: <a href "tel:+8412367223">012367223</a></p>
+		<p>Email: <i><a href "mailto:balala@gmail.com">balala@gmail.com</a></i></p>
+		<img src="nacho.gif" alt ="Ảnh Gif" border = "1">
+		<p>Sở Thích:</p>
+		<ul type = circle>
+		<li>Nghe Nhạc</li>
+		<li>Chơi Game</li>
+		<li>Ăn Uống</li>
+		<li>Ca Hát</li>
+		</ul>
+		<p>Các Trang web yêu thích:</p>
+		<table border = "1">
+			<tbody>
+			<tr>
+				<td width="25%" align="center"><a href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">Youtube</a></td>
+				<td width="25%" align="center"><a href = 'https://www.thegioididong.com' target="_blank"> Thế giới di động</a></td>
+				<td width="25%" align="center"><a href = 'https://www.facebook.com' target="_blank"> FaceBook</a></td>
+				<td width="25%" align="center"><a href = 'https://www.github.com' target="_blank"> Github</a></td>
+			</tr>
+			<tr>
+				<td align="center"><a href = 'https://www.w3schools.com/' target="_blank">W3schools</a></td>
+				<td align="center"><a href = 'https://discord.com/' target="_blank">Discord</a></td>
+				<td align="center"><a href = 'https://gmail.com' target="_blank"> Gmail</a></td>
+				<td align="center"><a href = 'https://www.twitch.tv/' target="_blank"> Twitch</a></td>
+			</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
